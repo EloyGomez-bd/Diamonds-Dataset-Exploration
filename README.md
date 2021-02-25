@@ -30,13 +30,27 @@ Open the file data_analysis_report.ipynb from ```notebooks``` in your Jupyter te
 
 **Tableau Dashboard:**
 
-## Understanding the Dataset
+## Understanding the dataset
 
-It is important to know some features of the diamonds in order to properly understand this dataset.
+It is important to know some of the features of the diamonds in order to properly understand this dataset.
 
 - Color
 
 ![Color](./images/diamond-color-scale.png)
+
+- Carat
+
+Diamond Carat Weight Measures a Diamond's Apparent Size
+
+A metric “carat” is defined as 200 milligrams. Each carat is subdivided into 100 'points'. This allows very precise measurements to the hundredth decimal place.
+
+- Dimensions
+
+![Dimensions](./images/GIA-Cut-Scale.png)
+
+- Clarity
+
+![Clarity](./images/Diamond_Clarity_Chart.png)
 
 
 ## References
