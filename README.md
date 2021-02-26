@@ -30,6 +30,9 @@ Open the file data_analysis_report.ipynb from ```notebooks``` in your Jupyter te
 
 **Tableau Dashboard:**
 
+https://public.tableau.com/profile/eloy.gomez.caro.moreno#!/vizhome/IronackProjectModule2/DiamondsPriceExploration?publish=yes
+
+
 ## Understanding the dataset
 
 It is important to know some of the features of the diamonds in order to properly understand this dataset.
@@ -51,6 +54,17 @@ A metric “carat” is defined as 200 milligrams. Each carat is subdivided into
 - Clarity
 
 ![Clarity](./images/Diamond_Clarity_Chart.png)
+
+
+## Conclusions
+
+The main conclusions obtained after the exploration and visualization of this dataset are the following:
+
+- The characteristic that directly and most notably affects the price of diamonds is their carat weight and therefore their volume.
+
+- Other features such as color or clarity would also affect the price expecting that the highest qualities (D colors and IF clarity) would have the highest prices, but it seems this happens on the contrary in our graphs. That is, a large diamond of low quality and translucent will be more expensive than a smaller diamond without inclusions and clear.
+
+- Regardless of the carat and as it is expected, diamonds without inclusions and without color increasingly and directly affect their average price.
 
 
 ## References
