@@ -1,4 +1,6 @@
-# Project Module 2
+# Diamonds Dataset Exploration
+
+This repository contains Ironhack project corresponding to module 2.
 
 The purpose of this repository is to explore a dataset showing the main characteristics and prices of fifty thousand diamonds.
 
